@@ -1,1 +1,3 @@
 # browserCompatibilitySummary
+
+#ie8中ScrollHeight是指该元素所包含的内容的高度，并不是指它本身高度
