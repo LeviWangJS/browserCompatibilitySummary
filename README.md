@@ -4,4 +4,6 @@
 
 + transition 动作完成之后，ie会保留原来的空间，chrome不会保留原来的空间
 
++ ie9不支持input[typa=password]和input的placeholder
+
 ## MOBILE
