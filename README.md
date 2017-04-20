@@ -6,4 +6,6 @@
 
 + ie9不支持input[typa=password]和input的placeholder
 
++ ie9在f12模式下会有console对象，但是在关闭f12模式下没有console对象，会阻塞js的运行
+
 ## MOBILE
